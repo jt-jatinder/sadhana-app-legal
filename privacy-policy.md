@@ -1,9 +1,9 @@
 Privacy Policy
 
-Effective Date: [Date]
+Effective Date: 27-09-2026
 
 1. Introduction
-Welcome to [App Name] ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Rashi Upay ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 2. Information We Collect
 To provide precise astrological calculations and maintain your app experience, we collect the following types of information:
@@ -37,7 +37,7 @@ Google AdMob: For displaying rewarded advertisements. AdMob may use device ident
 Razorpay: For secure payment gateway processing.
 
 5. Data Deletion and Your Rights
-You have the right to request the deletion of your profiles and wallet data at any time. You can delete individual birth profiles directly within the app's Profile Switcher. To request a complete erasure of all account data from our Firebase servers, please contact us at [Support Email].
+You have the right to request the deletion of your profiles and wallet data at any time. You can delete individual birth profiles directly within the app's Profile Switcher. To request a complete erasure of all account data from our Firebase servers, please contact us at our support channels.
 
 6. Changes to this Privacy Policy
 We reserve the right to update, amend, or modify this Privacy Policy at any time to reflect changes in our practices, the addition of new features, or legal obligations. We will notify you of any significant changes by posting the new policy in the app and updating the "Effective Date." Continued use of the app after such changes constitutes your consent to the updated policy.
